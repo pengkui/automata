@@ -1,3 +1,6 @@
 [submodule "dawg/dawg-repo"]
 	path = dawg/dawg-repo
 	url = git@github.com:pengkui/dawg.git
+[submodule "ahocorasick/aho-corasick-repo"]
+	path = ahocorasick/aho-corasick-repo
+	url = git@github.com:pengkui/aho-corasick.git
