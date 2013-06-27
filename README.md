@@ -1,4 +1,5 @@
-dags
+automata
 ====
 
-Various directed acyclic graph (DAG) structures for Python
+Various finite state automata data structures for Python
+
