@@ -1,0 +1,3 @@
+[submodule "dawg/dawg-repo"]
+	path = dawg/dawg-repo
+	url = git@github.com:pengkui/dawg.git
